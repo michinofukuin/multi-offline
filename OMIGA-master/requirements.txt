@@ -1,0 +1,8 @@
+torch
+tqdm
+h5py
+wandb
+numpy
+absl-py
+mujoco-py==2.0.2.8
+jinja2
